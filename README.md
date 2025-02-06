@@ -1,5 +1,4 @@
-# ⚡ About Me:
-Senior Full-Stack Software Engineer
+
 
 
 # 💻 Tech Stack:
